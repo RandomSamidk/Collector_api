@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "event_type": "product_view",
+      "event_time": 1750867000000,
+      "user_id": "user_test",
+      "product_id": "prod_demo"
+    }
+  ],
+  "ctx": {
+    "browser": "Firefox",
+    "device": "Desktop",
+    "version": "126.0"
+  }
+}
